@@ -2,7 +2,7 @@
 Churn Analysis: identify churners using ML classification techniques 
 
 ### Data:
-wholesaler transaction data, customer data. 
+wholesaler transaction data, customer data, salesforce data. 
 
 ### Project Goal: 
 Find what the most important factors that impact customer churn and help customer retention strategy decision making.  

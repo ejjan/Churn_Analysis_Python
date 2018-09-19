@@ -14,4 +14,4 @@ Decision Tree and Random Forest were applied to predict whether a customer is �
 The best predictive model was Random Forest which had the highest accuracy (0.92), average sensitivity (0.92), and average specificity (0.74).
 
 ### Result:
-By the result of feature importance, we could give recommendation to senior management and sales team to track and enhance customers’ engagement and improve customer retention strategy.
+By the result of feature importance, we could give recommendation to senior management and sales team to track and enhance customers’ engagement and design effective customer retention strategy.
